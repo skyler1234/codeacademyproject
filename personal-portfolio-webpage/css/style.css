@@ -1,0 +1,92 @@
+
+img {
+  width: 120px;
+}
+
+#heading2 {
+  color: white;
+  font-family: Monospace;
+  font-size: 60px;
+/*   width: 200px;
+  margin-right: auto;
+  margin-left: auto; */
+    
+}
+
+#heading {
+  background-color: black;
+
+}
+
+.navbar {
+  background-color: black;
+  border-radius: 0px;
+}
+
+.title1 {
+  font-family: monospace;
+  font-size: 21px;
+}
+
+.sectiontitle {
+  color: white;
+  font-size: 20px;
+  font-family: Monospace;
+}
+
+#myScrollspy { 
+  border-radius: 0px;
+
+}
+
+h3 {
+  text-align: center;
+  font-family: Monospace;
+  color: Black;
+  font-size: 30px;
+  
+}
+
+.aligncenter {
+  text-align: center
+}
+
+
+#section2 {
+    background-image:  url("https://n6-img-fp.akamaized.net/free-photo/green-tropical-leaves-on-white-background_3249-1726.jpg?size=338&ext=jpg");
+ background-repeat: no-repeat;
+   background-size: 100% auto;
+}
+
+#section3 {
+    background-image:  url("https://images.unsplash.com/photo-1500145588304-deb802b4af76?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7b3bd394fc6c42904174b046e1a70141&auto=format&fit=crop&w=400&q=80");
+ background-repeat: no-repeat;
+   background-size: 100% auto;
+}
+
+
+.special {
+  font-family: Georgia;
+  font-size: 18px;
+  color: black;
+}
+
+.paragraph {
+  font-family: Helveltica;
+  font-size: 17px;
+  color: black;
+}
+
+.title{
+  font-size:18px;
+}
+
+li {
+  font-family: Helveltica;
+  font-size: 17px; 
+  color: black;
+}
+
+
+
+
